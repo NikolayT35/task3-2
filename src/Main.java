@@ -1,9 +1,9 @@
 public class Main {
     public static void main(String[] args) {
-        int summ = 1100;
+        int summ = 900;
         int bonus;
         int eachSpentMoney = 100;
-        if (summ > 100) {
+        if (summ > 1000) {
             bonus = 1;
         } else {
             bonus = (int) 0.1;
